@@ -4,3 +4,8 @@ description: Dreaming and Code
 show_downloads: false
 google_analytics: UA-89711625-2
 theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jemoji
