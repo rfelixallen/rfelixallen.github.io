@@ -1,0 +1,1 @@
+I am an Information Technology operations and infrastructure professional based in the Boston metro area. Experienced in fast-paced startup culture with broad experience in Software-as-a-Service, Healthcare and Manufacturing. Connect today.
